@@ -1,32 +1,26 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <h1 align="center">Hi 👋, I'm Ravath</h1>
-  
+
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
 
--  I’m currently working with Vue.js, Javascript, HTML & CSS.
- 👨‍💻  
-  
-
+- 👨‍💻 I’m currently working with Vue.js, JavaScript, HTML & CSS.
 - 🚀 I love exploring new tech stack.
-  
-  
+- 🎮 I’m a gamer.
+- 🌱 I’m currently learning [New Technology/Framework].
+- 💬 Ask me about [Your Expertise].
+- 📫 How to reach me: [Your Email or Social Media].
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love [Fun Fact About You].
 
-- 🎮I’m gamer.  
-  
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table>
   <tr>
     <td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -41,10 +35,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
-
-
 ### Design  
 <div align="center">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -52,46 +42,43 @@
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div>
-<a href="https://github.com/https://github.com/Rith-Ravath" target="_blank">
+<a href="https://github.com/Rith-Ravath" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/dam.boo.376/" target="_blank">
+<a href="https://www.facebook.com/dam.boo.376/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
 
-<br/>  
+<br/>
 
 ## My GitHub Stats
-<!---
 <a href="http://www.github.com/Rith-Ravath"><img src="https://github-readme-stats.vercel.app/api?username=Rith-Ravath&show_icons=true&layout=compact&theme=dark" alt="Rith-Ravath's GitHub stats" /></a>
 
-<a href="http://www.github.com/Rith-Ravath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rith-Ravath&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a> --->
+<a href="http://www.github.com/Rith-Ravath"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rith-Ravath&theme=dark#gh-dark-mode-only&stroke=a855f7&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
 <a href="http://www.github.com/Rith-Ravath"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rith-Ravath&layout=compact&theme=dark" /></a>
 
-<!---
-Rith-Ravath/Rith-Ravath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
+## Featured Projects
+- [Project 1](https://github.com/Rith-Ravath/Project1) - A brief description of the project.
+- [Project 2](https://github.com/Rith-Ravath/Project2) - A brief description of the project.
 
+<br/>
 
-<!---
-- 👋 Hi, I’m @DamBoo04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Recent Blog Posts
+- [Blog Post 1](https://yourblog.com/post1) - A brief description of the blog post.
+- [Blog Post 2](https://yourblog.com/post2) - A brief description of the blog post.
 
-DamBoo04/DamBoo04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+## Fun Fact
+⚡ Did you know? I once [Fun Fact About You].
