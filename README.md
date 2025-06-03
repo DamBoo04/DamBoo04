@@ -12,7 +12,7 @@
 - 🚀 I love exploring new tech stacks and building cool projects.
 - 🎮 Fun fact: I’m a gamer and enjoy playing competitive games.
 - 💬 Ask me about **frontend development, Vue.js, or anything tech-related**.
-- 📫 How to reach me: [Your Email or Social Media Links].
+- 📫 How to reach me: rithravath44@gmail.com.
 
 <br/>
 
