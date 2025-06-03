@@ -65,7 +65,7 @@
   <a href="https://www.facebook.com/dam.boo.376/" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ravath-rith-a98a8b319/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
