@@ -97,7 +97,5 @@
 
 <br/>
 
-## ⚡ Fun Fact
-I once [Fun Fact About You]!
 
 ---
