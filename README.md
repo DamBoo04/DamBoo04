@@ -6,6 +6,11 @@
   Hi 👋, I'm <span style="color:#FF6B6B;">Ravath Rith</span>
 </h1>
 
+<!-- 👇 ADD THIS -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rith-Ravath&label=👀%20Profile%20Views&color=FF6B6B&style=flat" />
+</div>
+
 <h3 align="center">
   🚀 Web Developer | 🎨 UI/UX Enthusiast | 💡 Problem Solver
 </h3>
@@ -49,12 +54,13 @@
 ---
 
 ### 🚀 Featured Projects
-> (You should replace these with your real projects)
 
 - 🔹 **CNC Cost Calculator App**  
   → Upload 3D files & estimate machining cost  
+
 - 🔹 **E-commerce System (Vue + Directus)**  
   → Full cart, checkout, order timeline  
+
 - 🔹 **Portfolio Website**  
   → Modern UI with animations  
 
