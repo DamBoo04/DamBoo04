@@ -54,12 +54,11 @@
 ---
 
 ### 🚀 Featured Projects
+- 🔹 **E-commerce System (React js + PHP)**  
+  → Full cart, checkout, order timeline  
 
 - 🔹 **CNC Cost Calculator App**  
   → Upload 3D files & estimate machining cost  
-
-- 🔹 **E-commerce System (Vue + Directus)**  
-  → Full cart, checkout, order timeline  
 
 - 🔹 **Portfolio Website**  
   → Modern UI with animations  
