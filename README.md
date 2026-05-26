@@ -54,7 +54,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔹 **E-commerce System (React js + PHP)**  
+- 🔹 **E-commerce System (React js + PHP + Laravel)**  
   → Full cart, checkout, order timeline  
 
 - 🔹 **CNC Cost Calculator App**  
