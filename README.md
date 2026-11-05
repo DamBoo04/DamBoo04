@@ -6,7 +6,7 @@
 
 # Hi, I'm Ravath Rith 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=45&lines=Frontend+%26+Full-Stack+Developer;React+%7C+React+Native+%7C+Next.js;Building+Clean+%2C+Modern+UI;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=45&lines=Web+Developer+%26+Frontend+Engineer;React+%7C+Vue.js+%7C+Laravel;Building+Clean%2C+Modern+UI;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 <br>
 
@@ -25,15 +25,26 @@
 
 <img align="right" width="280" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif" />
 
-- 🎓 Computer Science student at **Royal University of Phnom Penh**
-- 💻 Frontend-leaning full-stack developer, building **web & mobile** apps
-- ⚛️ Working daily with **React, Next.js & React Native**
-- 🎨 Comfortable with **Vue.js & Tailwind CSS**
-- ⚙️ Backend experience with **Node.js & Laravel**
-- 🌱 Currently deepening **React Native (Expo)** and **API design**
-- 🎯 I care about clean code, performance, and details that make an interface feel right
+- 🎓 Computer Science graduate — **Royal University of Phnom Penh** (2020–2024)
+- 💻 Frontend-focused developer with 2+ years of experience, building **web & mobile** apps
+- ⚛️ Currently a **Frontend Developer** at [**Domrey Team**](https://domrey.com/), modernizing their e-commerce platform & admin dashboard
+- 🛠️ Daily stack: **React, JavaScript, Tailwind CSS, Laravel & Firebase**
+- 🎨 Also comfortable with **Vue.js & Bootstrap**
+- 🌱 Currently exploring **React Native** and **TypeScript**
+- 🤝 Open to collaboration and freelance opportunities
+- ☕ Coffee enthusiast and avid gamer
 
 <br clear="right"/>
+
+<br>
+
+## 💼 Experience
+
+**Frontend Developer** @ [Domrey Team](https://domrey.com/) · _March 2026 — Present_
+Modernizing the UI and workflows of the Domrey e-commerce platform and admin dashboard, plus private internal systems for partner companies.
+
+**Web Developer** @ AI Farm Co., Ltd · _October 2024 — August 2025_
+Built and maintained responsive, user-friendly interfaces for digital products — started as an intern in July 2024.
 
 <br>
 
@@ -47,16 +58,16 @@
 <p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" /></p>
 
 **Mobile**
-<p><img src="https://skillicons.dev/icons?i=react,expo" /></p>
+<p><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></p>
 
 </td>
 <td valign="top" width="50%">
 
 **Backend & Database**
-<p><img src="https://skillicons.dev/icons?i=nodejs,laravel,php,mysql,postgres" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,laravel,php,mysql,firebase" /></p>
 
 **Tools & Design**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma" /> <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></p>
 
 </td>
 </tr>
@@ -67,10 +78,8 @@
 ## 🚀 Currently Learning
 
 <p>
-<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <br>
